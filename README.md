@@ -6,7 +6,7 @@ I am Cloud and DevOps practitioner with hands-on training and practical project 
 
 I enjoy working with cloud infrastructure, deployment workflows, automation, and monitoring while continuously developing my practical DevOps skills through hands-on projects and learning.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Cloud:**
 Amazon Web Services (AWS), Amazon EC2, Amazon S3, AWS IAM, Amazon VPC, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon SNS, Amazon CloudWatch
@@ -20,7 +20,7 @@ Prometheus, Grafana, Amazon CloudWatch
 **OS & Scripting:**
 Linux, Shell/Bash Scripting
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Serverless Registration Web Application
 
@@ -52,7 +52,7 @@ Deployed a static website on Amazon S3 using S3 static website hosting, AWS CLI,
 
 **Technologies:** Amazon S3, AWS CLI, IAM, Static Website Hosting
 
-## 📚 DevOps Areas
+## DevOps Areas
 
 * AWS Cloud Infrastructure
 * CI/CD and Jenkins
@@ -64,7 +64,7 @@ Deployed a static website on Amazon S3 using S3 static website hosting, AWS CLI,
 * Monitoring with Prometheus, Grafana, and CloudWatch
 * Cloud Deployment and Troubleshooting
 
-## 🎯 Career Focus
+## Career Focus
 
 Currently seeking an entry-level DevOps Engineer or Cloud Engineer opportunity where I can apply my hands-on skills, contribute to real-world projects, learn from experienced teams, and grow as a DevOps professional.
 
