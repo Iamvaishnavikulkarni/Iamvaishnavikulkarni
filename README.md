@@ -2,7 +2,7 @@
 
 ### Cloud and DevOps Practitioner
 
-I am an entry-level Cloud and DevOps practitioner with hands-on training and practical project experience in AWS, Linux, CI/CD, containerization, Infrastructure as Code, automation, and monitoring.
+I am Cloud and DevOps practitioner with hands-on training and practical project experience in AWS, Linux, CI/CD, containerization, Infrastructure as Code, automation, and monitoring.
 
 I enjoy working with cloud infrastructure, deployment workflows, automation, and monitoring while continuously developing my practical DevOps skills through hands-on projects and learning.
 
